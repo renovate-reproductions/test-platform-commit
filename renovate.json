@@ -2,5 +2,6 @@
   "extends": [
     "config:base"
   ],
+  "gitIgnoredAuthors": ["29139614+renovate[bot]@users.noreply.github.com"],
   "platformCommit": true
 }
